@@ -1,4 +1,4 @@
-# Checking-Palo-Alto-firerwall-for-disk-usage
+# Checking-Palo-Alto-firewall-for-disk-usage
 
 ### Architecture:
 * PANORAMA
