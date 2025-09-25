@@ -2,7 +2,7 @@
 
 ### Architecture:
 * PANORAMA
-* SERVER LINUX (for BACKUP)
+* SERVER LINUX
 
 ### Part 1. Create Account on PANORAMA
 
