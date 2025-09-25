@@ -230,7 +230,7 @@ log "Gotowe. CSV zapisane w: $OUTPUT_CSV"
 ### Part 7. Add modyfing permission to script
 
 ```bash
-chmod +x /home/super_admin/check_disk/anorama_check_disk.sh
+chmod +x /home/super_admin/check_disk/panorama_check_disk.sh
 ```
 
 ### Part 8. Testing manual
